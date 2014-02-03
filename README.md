@@ -1,2 +1,2 @@
 # Garderobe Shop
-Simple e-commercial site
+>Simple e-commercial site
