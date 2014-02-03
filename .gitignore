@@ -213,3 +213,12 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#SFTP Config
+sftp-config.json
+
+#Images
+image/
+
+#Caches
+~/cache/
