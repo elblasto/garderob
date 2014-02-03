@@ -218,7 +218,9 @@ pip-log.txt
 sftp-config.json
 
 #Images
-image/
+image/cache/
+image/data/product
 
 #Caches
-~/cache/
+system/cache/
+system/logs/
