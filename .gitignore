@@ -224,3 +224,6 @@ image/data/product
 #Caches
 system/cache/
 system/logs/
+
+#VQ MOD
+vqmod/vqcache
