@@ -76,8 +76,10 @@
           <b><?php if ($option['required']) { ?>
           <span class="required">*</span>
           <?php } ?> <?php echo $option['name']; ?>:</b>
+          <?php var_dump( $option ); ?>
           <select name="option[<?php echo $option['product_option_id']; ?>]">
             <option value=""><?php echo $text_select; ?></option>
+
             <?php foreach ($option['option_value'] as $option_value) { 
 		if( $option_value['name'] == '---' ) { ?>
 		<option value><?php echo $option_value['name']; ?>			
@@ -112,6 +114,11 @@
 			$('.helpPopUp').click(function() { $( this ).fadeOut( 500 ); });	
 		});
 	</script>
+  <?php
+    $a = $this->request->post;
+
+    var_dump( $a );
+  ?>
         </div>
         <br />
         <?php } ?>

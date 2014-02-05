@@ -10,5 +10,7 @@
   <div class="buttons">
     <div class="right"><a href="<?php echo $continue; ?>" class="button"><?php echo $button_continue; ?></a></div>
   </div>
-  <?php echo $content_bottom; ?></div>
+  <?php echo $content_bottom; ?>
+</div>
+<script src="catalog/view/theme/aquacart/javascript/custom.js"></script>
 <?php echo $footer; ?>

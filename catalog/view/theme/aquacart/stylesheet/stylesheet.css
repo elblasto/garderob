@@ -1362,6 +1362,16 @@ a.button_accent, input.button_accent, .f_form .button{
 	float: right;
 	width: 49%;
 }
+/* Стилизация для статей */
+#content .simpleText h2 {font-weight: 700;border-bottom: 1px solid #e5e5e5;padding-bottom: 8px}
+#content .simpleText h3 {
+	font-weight:600;
+	margin:5px 0;
+}
+#content .simpleText .showMore {display:block;line-height:25px;height:25px;padding:0 5px;background:#f5f5f5;margin-top:5px;cursor:pointer;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-ms-transition:all .3s ease;-o-transition:all .3s ease;transition:all .3s ease}
+#content .simpleText .showMore:hover, #content .simpleText .showMore.active {background-color:#E9E9E9}
+#content .simpleText p.hide {display:none;background-color:#fafafa;padding:5px;margin-bottom:25px}
+
 /* category */
 .category-info {
 	line-height: 1.5em;
