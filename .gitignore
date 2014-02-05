@@ -227,3 +227,6 @@ system/logs/
 
 #VQ MOD
 vqmod/vqcache
+
+config.php
+admi/config.php

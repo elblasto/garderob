@@ -3769,5 +3769,17 @@ ZOOM : END
 
 /* Mobile Themes :: End */
 
-.helpPopUp {position:fixed;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.5);z-index:9999;display:none}
-.helpPopUp > .cont {width:800px;margin:50px auto 0 auto;background:#fff;border-radius:5px;box-shadow:0 0 15px rgba(0,0,0,.3);padding:20px 15px;}
+.helpPopUp {position:fixed;top:0;right:0;bottom:0;left:0;background:rgba(0,0,0,.5);z-index:9999;display:none;overflow-y:auto}
+.helpPopUp > .cont {width:800px;margin:30px auto 30px auto;background:#fff;border-radius:5px;box-shadow:0 0 15px rgba(0,0,0,.3);padding:20px 15px;}
+.helpPopUp > .cont > h1 {margin-top:0}
+.helpPopUp > .cont .descrSizes {display:none}
+.manShoesSize h3, .womenShoesSize h3 {text-align:center}
+.orangeTable {border-collapse:collapse;border:0;}
+.orangeTable {width:85%;margin:0 auto}
+.orangeTable tbody tr td {text-align:center;padding:5px 8px;border:1px solid #ddd;}
+.orangeTable.bigT {overflow:hidden;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border:1px solid #fff;-webkit-box-shadow:0 0 5px rgba(0, 0, 0, 0.12);-moz-box-shadow:0 0 5px rgba(0, 0, 0, 0.12);box-shadow:0 0 5px rgba(0, 0, 0, 0.12);}
+.orangeTable.bigT tbody tr td {font-size:16px;font-weight:600;text-align:center;}
+.orangeTable.bigT tbody tr:nth-child(odd) td {background-color:#fafafa}
+.orangeTable.bigT tbody tr td:first-child,.orangeTable.bigT tbody tr:nth-child(odd) td:first-child {background-color:#F15A3B;color:#fff;}
+.orangeTable tbody tr:hover td, .orangeTable.bigT tbody tr:nth-child(odd):hover td:not(:first-child) {background-color:#f5f5f5}
+.orangeTable thead tr th {padding:5px 8px;background-color:#F15A3B;color:#fff;font-weight:600}

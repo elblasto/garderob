@@ -76,10 +76,8 @@
           <b><?php if ($option['required']) { ?>
           <span class="required">*</span>
           <?php } ?> <?php echo $option['name']; ?>:</b>
-          <?php var_dump( $option ); ?>
           <select name="option[<?php echo $option['product_option_id']; ?>]">
             <option value=""><?php echo $text_select; ?></option>
-
             <?php foreach ($option['option_value'] as $option_value) { 
 		if( $option_value['name'] == '---' ) { ?>
 		<option value><?php echo $option_value['name']; ?>			
@@ -93,33 +91,22 @@
             <?php } ?>
           </select>
              <?php 
-    if( $option["option_id"] == '13' ) echo '<a href="#" class="showHelp" data-htype="13">Помочь выбрать размер обуви</a>'; 
+    if( $option["option_id"] == '13' ) echo '<a href="#" class="showHelp" data-htype="13">Определить свой размер обуви</a>'; 
     if( $option["option_id"] == '14' ) echo '<a href="#" class="showHelp" data-htype="14">Помочь выбрать размер одежды</a>';
         ?>
-	<div class="helpPopUp"><div class="cont"><h1>Таблица размеров</h2></div></div>
-	<script>
-		$(function() {
-			$('.showHelp').on('click', function( e ) {
-				e.preventDefault();
-				var dateShow = $( this ).data('htype');
-				if( dateShow == 13) { 
-					$('.helpPopUp').find('.cont h1').text('Таблица размеров обуви');
-				}
-				if( dateShow == 14) {
-					$('.helpPopUp').find('.cont h1').text('Таблица размеров одежды');
-				}
-				$('.helpPopUp').fadeIn( 500 );
-			});
+	<div class="helpPopUp">
+		<div class="cont">
+			<h1>Таблица размеров</h2>
+			<?php
+				$this->language->load('information/information');
+				$this->load->model('catalog/information');
+				$information_info = $this->model_catalog_information->getInformation( 9 );
 
-			$('.helpPopUp').click(function() { $( this ).fadeOut( 500 ); });	
-		});
-	</script>
-  <?php
-    $a = $this->request->post;
-
-    var_dump( $a );
-  ?>
-        </div>
+				echo html_entity_decode($information_info['description'], ENT_QUOTES, 'UTF-8');
+			?>
+		</div>
+	</div>
+</div>
         <br />
         <?php } ?>
         <?php if ($option['type'] == 'radio') { ?>
@@ -619,4 +606,24 @@ $('.datetime').datetimepicker({
 });
 $('.time').timepicker({timeFormat: 'h:m'});
 //--></script> 
+<script>
+		$(function() {
+			$('.showHelp').on('click', function( e ) {
+				e.preventDefault();
+				var dateShow = $( this ).data('htype');
+
+				$('body').css('overflow','hidden');
+
+				if( dateShow == 13) { 
+					$('.helpPopUp').find('.cont h1').text('Таблица размеров обуви');
+				}
+				if( dateShow == 14) {
+					$('.helpPopUp').find('.cont h1').text('Таблица размеров одежды');
+				}
+				$('.helpPopUp').find( '.sizeChatWrap .dateShow' + dateShow ).show().end().fadeIn( 500 );
+			});
+
+			$('.helpPopUp').click(function() { $( this ).fadeOut( 500 );$('body').css('overflow','auto'); });	
+		});
+	</script>
 <?php echo $footer; ?>
