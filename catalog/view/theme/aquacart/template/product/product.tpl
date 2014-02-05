@@ -91,8 +91,8 @@
             <?php } ?>
           </select>
              <?php 
-    if( $option["option_id"] == '13' ) echo '<a href="#" class="showHelp" data-htype="13">Определить свой размер обуви</a>'; 
-    if( $option["option_id"] == '14' ) echo '<a href="#" class="showHelp" data-htype="14">Помочь выбрать размер одежды</a>';
+    if( $option["option_id"] == '13' ) echo '<a href="#" class="showHelp" data-htype="13">Определить свой размер</a>'; 
+    if( $option["option_id"] == '14' ) echo '<a href="#" class="showHelp" data-htype="14">Определить свой размер</a>';
         ?>
 	<div class="helpPopUp">
 		<div class="cont">

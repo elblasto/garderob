@@ -31,9 +31,10 @@
 	</div><!-- manShoesSize -->
 
 	<div class="descrSizes manClothesSize dateShow14">
-		<p>Таблица размеров мужской верхней одежды</p>
+		<h3>Таблица размеров мужской верхней одежды</h3>
 		<table class="orangeTable">
 			<thead>
+				<th></th>
 				<th>XS</th>
 				<th>S</th>
 				<th>M</th>
@@ -71,113 +72,76 @@
 				</tr>
 			</tbody>
 		</table>
-	
+		<h3>Как измерить?</h3>
+		<div class="hotToSize">
+			<ol>
+				<li>
+					<strong><em>Обхват груди</em></strong>
+					<p>При измерении обхвата груди лента должна плотно прилегать к телу, спереди проходить по наиболее выступающим точкам, сбоку через подмышечные впадины, сзади обхватывая лопатки.</p>
+				</li>
+				<li>
+					<strong><em>Обхват талии</em></strong>
+					<p>Сантиметровая лента проходит горизонтально вдоль естественной линии талии, смыкается спереди, на самой выступающей точке живота.</p>
+				</li>
+			</ol>
+			<p><img alt="" src="http://test2.garderobeshop.ru/image/data/size ico/menouterwear_size.png" style="width: 157px; height: 196px; " />​</p>
+			<div class="clear"></div>
+		</div>
 
-	<ol class="extended" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: none; list-style-position: initial; list-style-image: initial; ">
-		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 3em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: decimal; list-style-position: initial; list-style-image: initial; width: 450px; line-height: 2.5em; z-index: 2; ">
-		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват груди</h2>
-
-		<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">При измерении обхвата груди лента должна плотно прилегать к телу, спереди проходить по наиболее выступающим точкам, сбоку через подмышечные впадины, сзади обхватывая лопатки.</p>
-		</li>
-		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 3em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: decimal; list-style-position: initial; list-style-image: initial; width: 450px; line-height: 2.5em; z-index: 2; ">
-		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват талии</h2>
-
-		<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">Сантиметровая лента проходит горизонтально вдоль естественной линии талии, смыкается спереди, на самой выступающей точке живота.</p>
-		</li>
-	</ol>
-
-	<p><img alt="" src="http://test2.garderobeshop.ru/image/data/size ico/menouterwear_size.png" style="width: 157px; height: 196px; " />​</p>
-
-	<p>Таблица размеров мужских брюк и джинсов</p>
-
-	<div>&nbsp;</div>
-
-	<div>
-	<table border="0" cellpadding="5" cellspacing="1" class="sizes" style="font: normal normal normal 8pt/normal tahoma; ">
-		<tbody>
-			<tr>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div>&nbsp;</div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">28</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">29</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">30</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">32</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">33</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">34</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">36</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">38</span></div>
-				</td>
-				<td class="infoBoxHeading" style="background-color: rgb(166, 206, 118); " width="75">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">40</span></div>
-				</td>
-			</tr>
-			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); "><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">Пояс, см</span></td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">72-75</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">75-77</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">77-82</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">82-85</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">85-90</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">90-95</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">95-102</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">102-105</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; "><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">105-110</span></td>
-			</tr>
-			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); "><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">Размер RUS</span></td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">42-44</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">44-46</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">46-48</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">48</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">48-50</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">50</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">52</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">54</span></div>
-				</td>
-				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
-				<div><span style="font-family: Tahoma, Arial, Verdana; line-height: 18px; color: rgb(0, 0, 0); ">56</span></div>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	</div>
-
-	<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват бедер</h2>
-
-	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">Сантиметровая лента проходит горизонтально по наиболее выступающим точкам ягодиц и бедер.</p>
-
-	<p><img alt="" src="http://test2.garderobeshop.ru/image/data/size ico/menpants_size.png" style="width: 157px; height: 196px; " /></p>
+		<h3>Таблица размеров мужских брюк и джинсов</h3>
+		<table class="orangeTable">
+			<thead>
+				<tr>
+					<th></th>
+					<th>28</th>
+					<th>29</th>
+					<th>30</th>
+					<th>32</th>
+					<th>33</th>
+					<th>34</th>
+					<th>36</th>
+					<th>38</th>
+					<th>40</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Пояс, см</span></td>
+					<td>72-75</td>
+					<td>75-77</td>
+					<td>77-82</td>
+					<td>82-85</td>
+					<td>85-90</td>
+					<td>90-95</td>
+					<td>95-102</td>
+					<td>102-105</td>
+					<td>105-110</td>
+				</tr>
+				<tr>
+					<td>Размер RUS</td>
+					<td>42-44</td>
+					<td>44-46</td>
+					<td>46-48</td>
+					<td>48</td>
+					<td>48-50</td>
+					<td>50</td>
+					<td>52</td>
+					<td>54</td>
+					<td>56</td>
+				</tr>
+			</tbody>
+		</table>
+		<h3>Как измерить?</h3>
+		<div class="hotToSize">
+			<ol>
+				<li>
+					<strong><em>Обхват бедер</em></strong>
+					<p>Сантиметровая лента проходит горизонтально по наиболее выступающим точкам ягодиц и бедер.</p>
+				</li>
+			</ol>
+			<p><img alt="" src="http://test2.garderobeshop.ru/image/data/size ico/menpants_size.png" style="width: 157px; height: 196px; " /></p>
+			<div class="clear"></div>
+		</div>
 	</div><!-- manClothesSize -->
 <div class="descrSizes womenShoesSize dateShow13">
 	<h3>Таблица размеров женской обуви</h3>
@@ -232,7 +196,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Размер RUS</td>
+				<td>Размер RUS</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">40-42</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">42-44</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">44-46</td>
@@ -240,7 +204,7 @@
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">52-54</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Размер Европа</td>
+				<td>Размер Европа</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">36</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">38</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">40</td>
@@ -248,7 +212,7 @@
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">46</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Размер USA</td>
+				<td>Размер USA</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">8</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">10</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">12</td>
@@ -256,7 +220,7 @@
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">16</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Грудь, см</td>
+				<td>Грудь, см</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
 				<div>82</div>
 				</td>
@@ -274,7 +238,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Талия, см</td>
+				<td>Талия, см</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
 				<div>62</div>
 				</td>
@@ -292,7 +256,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td class="productListing-heading" style="background-color: rgb(166, 206, 118); ">Бедра, см</td>
+				<td>Бедра, см</td>
 				<td bgcolor="#fffac7" class="productListing-data" style="background-color: rgb(153, 204, 255); text-align: center; ">
 				<div>88</div>
 				</td>
@@ -317,17 +281,17 @@
 	<p>&nbsp;</p>
 
 	<ol class="extended" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: none; list-style-position: initial; list-style-image: initial; ">
-		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 3em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: decimal; list-style-position: initial; list-style-image: initial; width: 450px; line-height: 2.5em; z-index: 2; ">
+		<li>
 		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват груди</h2>
 
 		<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">При измерении обхвата груди лента должна плотно прилегать к телу, спереди проходить по наиболее выступающим точкам, сбоку через подмышечные впадины, сзади обхватывая лопатки.</p>
 		</li>
-		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 3em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: decimal; list-style-position: initial; list-style-image: initial; width: 450px; line-height: 2.5em; z-index: 2; ">
+		<li>
 		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват талии</h2>
 
 		<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">Обхват талии измеряется строго горизонтально по естественной линии талии.</p>
 		</li>
-		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 3em; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; list-style-type: decimal; list-style-position: initial; list-style-image: initial; width: 450px; line-height: 2.5em; z-index: 2; ">
+		<li>
 		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 14px; font: inherit; vertical-align: baseline; font-family: Arial, sans-serif; font-weight: bold; font-style: italic; ">Обхват бедер</h2>
 
 		<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-size: 12px; font: inherit; vertical-align: baseline; line-height: 1.8em; ">При измерении бедер лента должна находиться горизонтально, проходя посредине бедра, как это показано на иллюстрации.</p>
